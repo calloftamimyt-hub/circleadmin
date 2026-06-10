@@ -1,0 +1,6 @@
+{
+  "name": "সার্কেল এডমিন",
+  "description": "সার্কেল এডমিন ড্যাশবোর্ড এবং এক্সেস কন্ট্রোল ও ইনকাম ট্র্যাকিং সিস্টেম",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
